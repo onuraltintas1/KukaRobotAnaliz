@@ -1,1 +1,3 @@
-streamlit, pandas, xlsxwriter
+streamlit
+pandas
+xlsxwriter
